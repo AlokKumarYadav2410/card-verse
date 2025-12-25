@@ -44,7 +44,7 @@ Make sure you have Node.js installed on your machine.
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AlokKumarYadav2410/card-verse.git
    ```
 
 2. Navigate to the project directory
